@@ -15,12 +15,12 @@ I was born, raised, and got my undergraduate degree in **Kazakhstan**. My educat
 
 
 My passion meets my profession: I enjoy thinking and solving complex problems. 
-Also, I like traveling and going to nature. In my spare time, I read or just go to places with beautiful scenery. Although I am introverted by nature, I like meeting and talking to people because every person is like a whole new world.
+Also, I like traveling and being in nature. In my spare time, I read or just go to places with beautiful scenery. Although I am introverted by nature, I've always enjoyed meeting new people because every person is like a whole new world.
 
 
 Education
 =
-* Master of Science in Data Science – Math and Computer Science Department, Skolkovo Insitute of Science and Technology , Moscow, Russia, 2020-2022
+* Master of Science in Data Science – Math and Computer Science Department, Skolkovo Institute of Science and Technology, Moscow, Russia, 2020-2022
 * Bachelor of Science in Robotics and Mechatronics- Nazarbayev University, Nur-Sultan, Kazakhstan, 2015-2020
 
 
