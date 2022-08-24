@@ -11,3 +11,7 @@ redirect_from:
 Hello! I am Nazerke.
 
 I am from Kazakhstan.
+
+[Max Planck Institute for Software Systems](https://www.mpi-sws.org/)
+[Nazarbayev University](https://nu.edu.kz/about/index)
+
