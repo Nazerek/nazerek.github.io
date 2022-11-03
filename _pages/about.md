@@ -21,7 +21,7 @@ I like traveling and being in nature. In my spare time, I read or just go to pla
 Education
 =
 * Master of Science in Data Science – Math and Computer Science Department, Skolkovo Institute of Science and Technology, Moscow, Russia, 2020-2022
-* Bachelor of Science in Robotics and Mechatronics- Nazarbayev University, Nur-Sultan, Kazakhstan, 2015-2020
+* Bachelor of Science in Robotics and Mechatronics- Nazarbayev University, Nur-Sultan, Kazakhstan, 2016-2020
 
 
 Research Interests
