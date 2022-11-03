@@ -14,8 +14,8 @@ Hello, my name is Nazerke and I am a novice researcher.
 I was born, raised, and got my undergraduate degree in **Kazakhstan**. My educational background includes an **MSc in Data Science and BSc in Robotics**. My research fits in the broad area of control theory. Currently, I am doing a research internship at **Max Planck Institute for Software Systems(of Kaiserslautern)** on classical and logic-based control theory.
 
 
-My passion meets my profession: I enjoy thinking and solving complex problems. 
-Also, I like traveling and being in nature. In my spare time, I read or just go to places with beautiful scenery. Although I am introverted by nature, I've always enjoyed meeting new people because every person is like a whole new world.
+
+I like traveling and being in nature. In my spare time, I read or just go to places with beautiful scenery. 
 
 
 Education
@@ -26,6 +26,6 @@ Education
 
 Research Interests
 =
-* Classical Control Theory
+* Control Theory
 * Robotics
 * Applied Artificial Intelligence
