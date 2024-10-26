@@ -11,11 +11,7 @@ redirect_from:
 Hello, my name is Nazerke and I am a novice researcher. 
 
 
-I was born, raised, and got my undergraduate degree in **Kazakhstan**. My educational background includes an **MSc in Data Science and BSc in Robotics**. My research fits in the broad area of control theory. Recently, I completed a research internship at **Max Planck Institute for Software Systems(in Kaiserslautern)** on continuous and logic-based control.
-
-
-
-I like traveling and being in nature. In my spare time, I read or just go to places with beautiful scenery. 
+I was born, raised, and got my undergraduate degree in **Kazakhstan**. My educational background includes an **MSc in Data Science and BSc in Robotics**. My research fits in the broad area of control theory. I completed a research internship at Max Planck Institute for Software Systems(in Kaiserslautern) on continuous and logic-based control. Recently, I joined a project on musculoskeletal systems at Hertie Institute for Clinical Brain Research (NeuroMech lab), Autonomous Learning Lab, and Max Planck Institute for Intelligent Systems. 
 
 
 Education
